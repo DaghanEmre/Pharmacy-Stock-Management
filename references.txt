@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/2516778/java-how-to-have-an-arraylist-as-instance-variable-of-an-object
+http://www.mkyong.com/java/how-to-write-to-file-in-java-bufferedwriter-example/
+http://stackoverflow.com/questions/16910344/how-to-convert-string-into-date-time-format-in-java
+http://beginnersbook.com/2013/04/java-string-to-date-conversion/
